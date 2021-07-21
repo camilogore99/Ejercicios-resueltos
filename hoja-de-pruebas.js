@@ -57,3 +57,7 @@
 // }
 
 // console.log( (/2) % 2 === 0 );
+
+const cadena = '12:01:00AM';
+
+console.log( parseInt(cadena) );
